@@ -9,4 +9,4 @@
 /dataSources/
 /dataSources.local.xml
 
-*.aseprite
+.DS_Store
