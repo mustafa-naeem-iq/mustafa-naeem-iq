@@ -4,7 +4,7 @@
     [ about ] [ statement ] i do respect powerful programming languages. <br><br>
     [ about ] [ belief - opinion ] prefer java's clear - long and verbose over syntax kotlin's expressive and concise syntax. <br>
     [ about ] [ belief - opinion ] simplicity in itself is a powerful framework so you can use it and take advantage of it. <br>
-    [ about ] [ belief - opinion ] dispite java's long - verbose syntax preference, like ruby's beautiful - short syntax.
+    [ about ] [ belief - opinion ] dispite java's long - verbose syntax preference, like ruby's beautiful - short syntax. <br>
     [ about ] [ belief - opinion ] every framework is built upon a certain conviction. choosing a framework isn't a neutral act; it's an ideological act. you are not just picking what's convenient; you're aligning yourself with a set of beliefs about how things should be done.
 </p>
 
